@@ -3,7 +3,7 @@
 **Full-stack Developer | Software Engineering Student @ Inatel**
 
 ### 💻 Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=dotnet,azure,cs,python,nodejs,aws,mongodb,mysql,react,nextjs,ts,cypress,postman,figma,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,aws,postgres,dotnet,azure,cs,python,nodejs,mysql,react,cypress,postman,figma,blender)](https://skillicons.dev)
 
 ##
 ### 💬 Contact 
