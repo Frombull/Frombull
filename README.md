@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Marco Di Toro
 
-**Full-stack Developer | Software Engineering Student @ Inatel**
+**Full-stack Developer | Software Engineering @ Inatel**
 
 ### 💻 Tech Stack & Tools
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,aws,postgres,dotnet,azure,cs,python,nodejs,mysql,react,cypress,postman,figma,blender)](https://skillicons.dev)
